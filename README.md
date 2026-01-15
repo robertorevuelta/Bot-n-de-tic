@@ -1,1 +1,1 @@
-# Bot-n-de-tic
+En esta carpeta ponemos el CSS
